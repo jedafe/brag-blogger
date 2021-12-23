@@ -1,5 +1,5 @@
 {
   "name": "Story Post",
-  "parent": "stories",
+  "parent": "story",
   "theme": "Brag Stories Theme"
 }
